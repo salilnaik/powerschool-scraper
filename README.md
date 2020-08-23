@@ -24,4 +24,4 @@ A simple scraper and messaging service to notify you of grade changes. The progr
 
 NOTE: The bot automatically sends and receives messages from the "#general" channel. You can change this by changing the "channel" parameter in the \__init__ function of the MessageHandler class. 
 
-After pasting your slack token into main.py, run this file. You should open Slack on a computer oor mobile device and continue through the simple start. It is highly recommended you use simple start, but if you don't want to, you can put the information directly in main.py and change the boolean simple_start to False.
+After pasting your slack token into main.py, run this file. You should open Slack on a computer or mobile device and continue through the simple start. It is highly recommended you use simple start, but if you don't want to, you can put the information directly in main.py and change the boolean simple_start to False.
